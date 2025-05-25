@@ -24,5 +24,8 @@ Excited to share my latest data analytics project featuring comprehensive sales 
 ✅ Trend analysis over time  
 ✅ Interactive filtering by teams (Delish, Jucies, Yummies)
 
+Dashboard Link 🔗: https://app.fabric.microsoft.com/view?r=eyJrIjoiN2Q2NGJlMTktZjUyZS00ZDZiLWI3MzMtMDcyN2VjYzE3ODQ0IiwidCI6ImNlMmNmNDNiLTI2M2ItNDU5OC1iODRkLWVkMTA1YmMzZWJjYyJ9
+
+
 This project demonstrates the power of proper data modeling and visualization in transforming raw sales data into actionable business insights. The STAR schema approach ensured optimal query performance while maintaining data integrity.
 
