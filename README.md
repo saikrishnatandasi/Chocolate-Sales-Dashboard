@@ -26,6 +26,3 @@ Excited to share my latest data analytics project featuring comprehensive sales 
 
 This project demonstrates the power of proper data modeling and visualization in transforming raw sales data into actionable business insights. The STAR schema approach ensured optimal query performance while maintaining data integrity.
 
-Looking forward to applying these data storytelling skills to drive strategic decision-making! 🚀
-
-#PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #STARSchema #DataModeling #SalesAnalytics #DAX #PowerQuery #DataScience #BI #Dashboard
